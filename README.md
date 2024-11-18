@@ -36,7 +36,7 @@ OUTPUT:
 ![Screenshot 2024-11-18 180425](https://github.com/user-attachments/assets/0479fce3-c088-4bf1-8cff-c6593348c169)
 ## RESULT
  
-
+The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
   
 
 
